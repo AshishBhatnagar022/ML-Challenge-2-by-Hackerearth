@@ -1,4 +1,4 @@
-# ProjectFundingPrediction
+# Hackerearth Machine Learning Challenge #2
 # Prediction_for-_funding_project
 <b>Problem Statement</b>
 
